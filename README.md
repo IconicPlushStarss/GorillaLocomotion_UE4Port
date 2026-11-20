@@ -29,3 +29,6 @@ Note: **This Port Was Made With `Unreal Engine 4.27.2`**
 
 ## Original Unity Repo Link
 - https://github.com/Another-Axiom/GorillaLocomotion
+
+## Video Showcase
+- https://youtu.be/V1xihzQchxI?is=Jz6fI5yLfihF-qK-
