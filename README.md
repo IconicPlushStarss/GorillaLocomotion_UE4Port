@@ -14,6 +14,8 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 
 - No C++, All Blueprint Code.
 
+> **Disclaimer.** Since this is a recreation of the original code base, it is **client-authoritative** movement.
+
 ## How to Use
 
 Note: **This Port Was Made With `Unreal Engine 4.27.2`**
