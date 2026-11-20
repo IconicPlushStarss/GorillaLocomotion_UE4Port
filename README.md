@@ -8,6 +8,7 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 - Player Model Support.
 - Example Level.
 - Multiplayer Replication.
+- Modified UE4 Mannequin + Animation Blueprint. 
 
 ## Extra Infomation:
 
