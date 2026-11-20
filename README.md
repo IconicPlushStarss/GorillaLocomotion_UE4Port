@@ -9,6 +9,10 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 - Example Level.
 - Multiplayer Replication.
 
+## Extra Infomation:
+
+- No C++, All Blueprint Code.
+
 ## How to Use
 
 Note: **This Port Was Made With `Unreal Engine 4.27.2`**
