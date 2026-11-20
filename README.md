@@ -4,8 +4,10 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 
 ## Extra Features
 
-- Out Of The Box Haptic Support
-- Player Model Support
+- Out Of The Box Haptic Support.
+- Player Model Support.
+- Example Level.
+- Multiplayer Replication.
 
 ## How to Use
 
