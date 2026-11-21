@@ -15,6 +15,7 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 - No C++, All Blueprint Code.
 
 > **Disclaimer.** Since this is a recreation of the original code base, it is **client-authoritative** movement.
+> **Second Disclaimer.** This will not work on **listen-servers**.
 
 ## How to Use
 
