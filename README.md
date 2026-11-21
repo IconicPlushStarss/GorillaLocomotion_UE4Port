@@ -16,7 +16,7 @@ Experience Arm-Based Swinging Locomotion. But In Unreal.
 
 > **Disclaimer.** Since this is a recreation of the original code base, it is **client-authoritative** movement.
 
-> **Second Disclaimer.** This will not work on **listen-servers**.
+> ~~**Second Disclaimer.** This will not work on **listen-servers**.~~ This has now been fixed.
 
 ## How to Use
 
