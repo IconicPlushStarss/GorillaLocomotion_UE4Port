@@ -29,6 +29,9 @@ Note: **This Port Was Made With `Unreal Engine 4.27.2`**
 - Original Unity implementation: **Another-Axiom/GorillaLocomotion** *(MIT, © 2021 Another-Axiom).* (For More Details Look In 'THIRD-PARTY-NOTICES.txt')
 - Unreal Engine 4 Port: **IconicFurStars**
 
+# Usege
+- You are free to fork it, modify it, make your own version, etc. All I ask for is credit to be included.
+
 ## Original Unity Repo Link
 - https://github.com/Another-Axiom/GorillaLocomotion
 
